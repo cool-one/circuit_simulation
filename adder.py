@@ -31,7 +31,6 @@ class Circuit:
         self.or1 = 0
         self.and1 = 0
         self.and2 = 0
-        self.or2 = 0
         # CIRCUIT OUTPUTS - STATUS
         self.output = 0
         self.carry_out = 0
